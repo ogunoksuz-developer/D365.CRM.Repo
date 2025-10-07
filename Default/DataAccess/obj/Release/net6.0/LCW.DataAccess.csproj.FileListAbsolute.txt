@@ -1,0 +1,17 @@
+C:\Users\ogun.oksuz\Source\Repos\LCW.CRM.StoreScheduleService\Default\DataAccess\bin\Release\net6.0\LCW.DataAccess.deps.json
+C:\Users\ogun.oksuz\Source\Repos\LCW.CRM.StoreScheduleService\Default\DataAccess\bin\Release\net6.0\LCW.DataAccess.dll
+C:\Users\ogun.oksuz\Source\Repos\LCW.CRM.StoreScheduleService\Default\DataAccess\bin\Release\net6.0\LCW.DataAccess.pdb
+C:\Users\ogun.oksuz\Source\Repos\LCW.CRM.StoreScheduleService\Default\DataAccess\bin\Release\net6.0\LCW.Core.dll
+C:\Users\ogun.oksuz\Source\Repos\LCW.CRM.StoreScheduleService\Default\DataAccess\bin\Release\net6.0\LCW.Entities.dll
+C:\Users\ogun.oksuz\Source\Repos\LCW.CRM.StoreScheduleService\Default\DataAccess\bin\Release\net6.0\LCW.Core.pdb
+C:\Users\ogun.oksuz\Source\Repos\LCW.CRM.StoreScheduleService\Default\DataAccess\bin\Release\net6.0\LCW.Entities.pdb
+C:\Users\ogun.oksuz\Source\Repos\LCW.CRM.StoreScheduleService\Default\DataAccess\obj\Release\net6.0\LCW.DataAccess.csproj.AssemblyReference.cache
+C:\Users\ogun.oksuz\Source\Repos\LCW.CRM.StoreScheduleService\Default\DataAccess\obj\Release\net6.0\LCW.DataAccess.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\ogun.oksuz\Source\Repos\LCW.CRM.StoreScheduleService\Default\DataAccess\obj\Release\net6.0\LCW.DataAccess.AssemblyInfoInputs.cache
+C:\Users\ogun.oksuz\Source\Repos\LCW.CRM.StoreScheduleService\Default\DataAccess\obj\Release\net6.0\LCW.DataAccess.AssemblyInfo.cs
+C:\Users\ogun.oksuz\Source\Repos\LCW.CRM.StoreScheduleService\Default\DataAccess\obj\Release\net6.0\LCW.DataAccess.csproj.CoreCompileInputs.cache
+C:\Users\ogun.oksuz\Source\Repos\LCW.CRM.StoreScheduleService\Default\DataAccess\obj\Release\net6.0\LCW.Data.096B919C.Up2Date
+C:\Users\ogun.oksuz\Source\Repos\LCW.CRM.StoreScheduleService\Default\DataAccess\obj\Release\net6.0\LCW.DataAccess.dll
+C:\Users\ogun.oksuz\Source\Repos\LCW.CRM.StoreScheduleService\Default\DataAccess\obj\Release\net6.0\refint\LCW.DataAccess.dll
+C:\Users\ogun.oksuz\Source\Repos\LCW.CRM.StoreScheduleService\Default\DataAccess\obj\Release\net6.0\LCW.DataAccess.pdb
+C:\Users\ogun.oksuz\Source\Repos\LCW.CRM.StoreScheduleService\Default\DataAccess\obj\Release\net6.0\ref\LCW.DataAccess.dll

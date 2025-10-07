@@ -1,0 +1,12 @@
+C:\Users\ogun.oksuz\Source\Repos\LCW.CRM.StoreScheduleService\Default\Core\bin\Release\net6.0\LCW.Core.deps.json
+C:\Users\ogun.oksuz\Source\Repos\LCW.CRM.StoreScheduleService\Default\Core\bin\Release\net6.0\LCW.Core.dll
+C:\Users\ogun.oksuz\Source\Repos\LCW.CRM.StoreScheduleService\Default\Core\bin\Release\net6.0\LCW.Core.pdb
+C:\Users\ogun.oksuz\Source\Repos\LCW.CRM.StoreScheduleService\Default\Core\obj\Release\net6.0\LCW.Core.csproj.AssemblyReference.cache
+C:\Users\ogun.oksuz\Source\Repos\LCW.CRM.StoreScheduleService\Default\Core\obj\Release\net6.0\LCW.Core.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\ogun.oksuz\Source\Repos\LCW.CRM.StoreScheduleService\Default\Core\obj\Release\net6.0\LCW.Core.AssemblyInfoInputs.cache
+C:\Users\ogun.oksuz\Source\Repos\LCW.CRM.StoreScheduleService\Default\Core\obj\Release\net6.0\LCW.Core.AssemblyInfo.cs
+C:\Users\ogun.oksuz\Source\Repos\LCW.CRM.StoreScheduleService\Default\Core\obj\Release\net6.0\LCW.Core.csproj.CoreCompileInputs.cache
+C:\Users\ogun.oksuz\Source\Repos\LCW.CRM.StoreScheduleService\Default\Core\obj\Release\net6.0\LCW.Core.dll
+C:\Users\ogun.oksuz\Source\Repos\LCW.CRM.StoreScheduleService\Default\Core\obj\Release\net6.0\refint\LCW.Core.dll
+C:\Users\ogun.oksuz\Source\Repos\LCW.CRM.StoreScheduleService\Default\Core\obj\Release\net6.0\LCW.Core.pdb
+C:\Users\ogun.oksuz\Source\Repos\LCW.CRM.StoreScheduleService\Default\Core\obj\Release\net6.0\ref\LCW.Core.dll

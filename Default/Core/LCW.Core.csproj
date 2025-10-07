@@ -1,0 +1,100 @@
+<Project Sdk="Microsoft.NET.Sdk">
+
+  <PropertyGroup>
+    <TargetFramework>net6.0</TargetFramework>
+  </PropertyGroup>
+
+  <ItemGroup>
+    <Compile Remove="DataAccess\CDSWebApi\Batch\**" />
+    <Compile Remove="DataAccess\CDSWebApi\Messages\**" />
+    <Compile Remove="DataAccess\CDSWebApi\Metadata\**" />
+    <Compile Remove="DataAccess\CDSWebApi\Methods\**" />
+    <Compile Remove="DataAccess\CDSWebApi\Types\**" />
+    <Compile Remove="DataAccess\CDSWebApi\Utility\**" />
+    <Compile Remove="DataAccess\XrmApi\**" />
+    <Compile Remove="Registry\**" />
+    <EmbeddedResource Remove="DataAccess\CDSWebApi\Batch\**" />
+    <EmbeddedResource Remove="DataAccess\CDSWebApi\Messages\**" />
+    <EmbeddedResource Remove="DataAccess\CDSWebApi\Metadata\**" />
+    <EmbeddedResource Remove="DataAccess\CDSWebApi\Methods\**" />
+    <EmbeddedResource Remove="DataAccess\CDSWebApi\Types\**" />
+    <EmbeddedResource Remove="DataAccess\CDSWebApi\Utility\**" />
+    <EmbeddedResource Remove="DataAccess\XrmApi\**" />
+    <EmbeddedResource Remove="Registry\**" />
+    <None Remove="DataAccess\CDSWebApi\Batch\**" />
+    <None Remove="DataAccess\CDSWebApi\Messages\**" />
+    <None Remove="DataAccess\CDSWebApi\Metadata\**" />
+    <None Remove="DataAccess\CDSWebApi\Methods\**" />
+    <None Remove="DataAccess\CDSWebApi\Types\**" />
+    <None Remove="DataAccess\CDSWebApi\Utility\**" />
+    <None Remove="DataAccess\XrmApi\**" />
+    <None Remove="Registry\**" />
+  </ItemGroup>
+
+  <ItemGroup>
+    <Compile Remove="DataAccess\EF\EfEntityRepositoryBase.cs" />
+    <Compile Remove="DataAccess\EF\TemplateContext.cs" />
+    <Compile Remove="DataAccess\EF\TemplateContextGenerateDatabaseForSample.cs" />
+  </ItemGroup>
+
+  <ItemGroup>
+    <Compile Include="DataAccess\CDSWebApi\Batch\BatchRequest.cs" />
+    <Compile Include="DataAccess\CDSWebApi\Batch\BatchResponse.cs" />
+    <Compile Include="DataAccess\CDSWebApi\Batch\ChangeSet.cs" />
+    <Compile Include="DataAccess\CDSWebApi\Messages\AssociateRequest.cs" />
+    <Compile Include="DataAccess\CDSWebApi\Messages\CreateRequest.cs" />
+    <Compile Include="DataAccess\CDSWebApi\Messages\CreateResponse.cs" />
+    <Compile Include="DataAccess\CDSWebApi\Messages\DeleteRequest.cs" />
+    <Compile Include="DataAccess\CDSWebApi\Messages\DisassociateRequest.cs" />
+    <Compile Include="DataAccess\CDSWebApi\Messages\FetchXMLRequest.cs" />
+    <Compile Include="DataAccess\CDSWebApi\Messages\FetchXMLResponse.cs" />
+    <Compile Include="DataAccess\CDSWebApi\Messages\MergeRequest.cs" />
+    <Compile Include="DataAccess\CDSWebApi\Messages\RetrieveMultipleRequest.cs" />
+    <Compile Include="DataAccess\CDSWebApi\Messages\RetrieveMultipleResponse.cs" />
+    <Compile Include="DataAccess\CDSWebApi\Messages\RetrieveRequest.cs" />
+    <Compile Include="DataAccess\CDSWebApi\Messages\RetrieveResponse.cs" />
+    <Compile Include="DataAccess\CDSWebApi\Messages\UpdateRequest.cs" />
+    <Compile Include="DataAccess\CDSWebApi\Messages\WhoAmIRequest.cs" />
+    <Compile Include="DataAccess\CDSWebApi\Messages\WhoAmIResponse.cs" />
+    <Compile Include="DataAccess\CDSWebApi\Types\PagingInfo.cs" />
+  </ItemGroup>
+
+  <ItemGroup>
+    <PackageReference Include="Autofac.Extensions.DependencyInjection" Version="8.0.0" />
+    <PackageReference Include="Autofac.Extras.DynamicProxy" Version="7.0.0" />
+    <PackageReference Include="Crm.Sdk.Core" Version="10.3.0" />
+    <PackageReference Include="DocumentFormat.OpenXml" Version="2.20.0" />
+    <PackageReference Include="FluentValidation" Version="11.5.2" />
+    <PackageReference Include="Microsoft.AspNet.WebApi.Client" Version="5.2.9" />
+    <PackageReference Include="Microsoft.AspNetCore.DataProtection" Version="7.0.7" />
+    <PackageReference Include="Microsoft.AspNetCore.DataProtection.Abstractions" Version="7.0.7" />
+    <PackageReference Include="Microsoft.AspNetCore.Diagnostics.Abstractions" Version="2.2.0" />
+    <PackageReference Include="Microsoft.AspNetCore.Http" Version="2.2.2" />
+    <PackageReference Include="Microsoft.Data.SqlClient" Version="5.1.1" />
+    <PackageReference Include="Microsoft.Extensions.Caching.Abstractions" Version="7.0.0" />
+    <PackageReference Include="Microsoft.Extensions.Configuration" Version="7.0.0" />
+    <PackageReference Include="Microsoft.Extensions.Configuration.Json" Version="7.0.0" />
+    <PackageReference Include="Microsoft.Extensions.DependencyInjection" Version="7.0.0" />
+    <PackageReference Include="Microsoft.Extensions.Http.Polly" Version="7.0.8" />
+    <PackageReference Include="Microsoft.Identity.Client" Version="4.54.1" />
+    <PackageReference Include="Npgsql" Version="7.0.4" />
+    <PackageReference Include="Serilog.AspNetCore" Version="7.0.0" />
+    <PackageReference Include="Serilog.Sinks.Elasticsearch" Version="10.0.0" />
+    <PackageReference Include="System.Data.SqlClient" Version="4.9.0" />
+    <PackageReference Include="System.IdentityModel.Tokens.Jwt" Version="6.31.0" />
+    <PackageReference Include="System.IO.Packaging" Version="7.0.0" />
+  </ItemGroup>
+
+  <ItemGroup>
+    <Folder Include="Aspects\Autofac\File\" />
+    <Folder Include="DataAccess\CDSWebApi\Methods\" />
+    <Folder Include="DataAccess\EF\" />
+  </ItemGroup>
+
+  <ItemGroup>
+    <Reference Include="DocumentFormat.OpenXml">
+      <HintPath>..\..\assembilies\DocumentFormat.OpenXml\DocumentFormat.OpenXml.dll</HintPath>
+    </Reference>
+  </ItemGroup>
+
+</Project>

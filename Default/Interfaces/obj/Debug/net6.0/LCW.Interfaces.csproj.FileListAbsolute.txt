@@ -1,0 +1,17 @@
+C:\Users\ogun.oksuz\Source\Repos\LCW.CRM.StoreScheduleService\Default\Interfaces\bin\Debug\net6.0\LCW.Interfaces.deps.json
+C:\Users\ogun.oksuz\Source\Repos\LCW.CRM.StoreScheduleService\Default\Interfaces\bin\Debug\net6.0\LCW.Interfaces.dll
+C:\Users\ogun.oksuz\Source\Repos\LCW.CRM.StoreScheduleService\Default\Interfaces\bin\Debug\net6.0\LCW.Interfaces.pdb
+C:\Users\ogun.oksuz\Source\Repos\LCW.CRM.StoreScheduleService\Default\Interfaces\bin\Debug\net6.0\LCW.Core.dll
+C:\Users\ogun.oksuz\Source\Repos\LCW.CRM.StoreScheduleService\Default\Interfaces\bin\Debug\net6.0\LCW.Entities.dll
+C:\Users\ogun.oksuz\Source\Repos\LCW.CRM.StoreScheduleService\Default\Interfaces\bin\Debug\net6.0\LCW.Core.pdb
+C:\Users\ogun.oksuz\Source\Repos\LCW.CRM.StoreScheduleService\Default\Interfaces\bin\Debug\net6.0\LCW.Entities.pdb
+C:\Users\ogun.oksuz\Source\Repos\LCW.CRM.StoreScheduleService\Default\Interfaces\obj\Debug\net6.0\LCW.Interfaces.csproj.AssemblyReference.cache
+C:\Users\ogun.oksuz\Source\Repos\LCW.CRM.StoreScheduleService\Default\Interfaces\obj\Debug\net6.0\LCW.Interfaces.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\ogun.oksuz\Source\Repos\LCW.CRM.StoreScheduleService\Default\Interfaces\obj\Debug\net6.0\LCW.Interfaces.AssemblyInfoInputs.cache
+C:\Users\ogun.oksuz\Source\Repos\LCW.CRM.StoreScheduleService\Default\Interfaces\obj\Debug\net6.0\LCW.Interfaces.AssemblyInfo.cs
+C:\Users\ogun.oksuz\Source\Repos\LCW.CRM.StoreScheduleService\Default\Interfaces\obj\Debug\net6.0\LCW.Interfaces.csproj.CoreCompileInputs.cache
+C:\Users\ogun.oksuz\Source\Repos\LCW.CRM.StoreScheduleService\Default\Interfaces\obj\Debug\net6.0\LCW.Inte.BF4FF9A8.Up2Date
+C:\Users\ogun.oksuz\Source\Repos\LCW.CRM.StoreScheduleService\Default\Interfaces\obj\Debug\net6.0\LCW.Interfaces.dll
+C:\Users\ogun.oksuz\Source\Repos\LCW.CRM.StoreScheduleService\Default\Interfaces\obj\Debug\net6.0\refint\LCW.Interfaces.dll
+C:\Users\ogun.oksuz\Source\Repos\LCW.CRM.StoreScheduleService\Default\Interfaces\obj\Debug\net6.0\LCW.Interfaces.pdb
+C:\Users\ogun.oksuz\Source\Repos\LCW.CRM.StoreScheduleService\Default\Interfaces\obj\Debug\net6.0\ref\LCW.Interfaces.dll
